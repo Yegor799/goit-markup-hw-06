@@ -491,6 +491,10 @@ textarea {
   overflow: hidden;
 }
 
+.policy-link {
+  color: var(--accent-color);
+}
+
 /* Features */
 
 .feature-list {
